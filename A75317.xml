@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomy of Westminster juncto. Or, A summary of their designes aginst the King, city, and kingdom. Written by Mercurius Elencticus.</title>
+            <author>Elencticus, Mercurius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75317</idno>
+            <idno type="STC">Wing A3062</idno>
+            <idno type="STC">Thomason E447_20</idno>
+            <idno type="EEBO-CITATION">99864389</idno>
+            <idno type="PROQUEST">99864389</idno>
+            <idno type="VID">161810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161810)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomy of Westminster juncto. Or, A summary of their designes aginst the King, city, and kingdom. Written by Mercurius Elencticus.</title>
+                  <author>Elencticus, Mercurius.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 15 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161810:1" rendition="simple:additions"/>
+            <head>THE ANATOMY OF WESTMINSTER <hi>IVNCTO.</hi> OR, A Summary of their Deſignes aginſt the KING, CITY, and KINGDOM.</head>
+            <byline>Written by <hi>Mercurius Elencticus.</hi>
+            </byline>
+            <p>IN bodies Politicke, the Reperſentative, as it is made up and choſen by the body Collective, ſo ſhould it ever act for the good of the ſame: but it is more common then commendable for men betruſted with other mens good to behave themſelves to their truſtees hurt.</p>
+            <p>There be foure Caſes wherin a body Collective is not bound to a body Repreſentative, but ought in conſcience to diſſent from it, and proteſt againſt it.</p>
+            <p>Firſt, when a body Repreſentative acts in a direct, evident and obvious manner againſt the expreſſe will and Word of GOD.</p>
+            <p>Secondly, when in like plaine and direct manner, it acts a<g ref="char:EOLhyphen"/>gainſt the apparent welfare, peace and good of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Thirdly, when it acts after the ſame manner againſt its own proper end and being.</p>
+            <p>Fourthly, when it acts beyond the bounds, limits and extents appointed it.</p>
+            <p>The tearmes (a little changed) were once the Parliaments. And all which granted (as cannot be denied) the ſerious exa<g ref="char:EOLhyphen"/>mination of the proceedings of <hi>a Prevailing party in the two Houſes,</hi> yeelds matter and reaſon ſufficient for our utter diſlike of and proteſtation againſt them. And that will appeare, if we
+<pb n="2" facs="tcp:161810:2"/>
+conſider, firſt, Their ungodly proceedings in matters Religi<g ref="char:EOLhyphen"/>ous and Divine; Their diſpoyling of Churches, their ſhutting the mouthes of Oxthodox Miniſters that would not Preach <hi>Diurnall Doctrine,</hi> their taking away our <hi>Common Prayer Booke;</hi> their not onely tolerating but encouraging and emboldening of all manner of Schiſmaticks and Hereticks, ſedicious incen<g ref="char:EOLhyphen"/>diaries, Sectaries, and ſeducers of the People; Socinians, Ar<g ref="char:EOLhyphen"/>rians, Anabaptiſts, Antinomians, Eraſtians, Familiſts, Sha<g ref="char:EOLhyphen"/>kers, Seekers, Browniſts, and Independents, contrary to the knowne Statute Lawes of this Kingdome; yea, Electing of them (before others) into the moſt conſiderable places of pro<g ref="char:EOLhyphen"/>fit and truſt in Martiall and Civill affaires; and under a pre<g ref="char:EOLhyphen"/>tence of a Chriſtian reſpect unto tender Conſciences, deſign<g ref="char:EOLhyphen"/>ing a toleration for all theſe, <hi>Contrary to the expreſſe rule of Sa<g ref="char:EOLhyphen"/>cred Scripture, commanding earneſt contention with them; and contrary to their Faith given our Brethren of Scotland,</hi> as you may ſee by the Covenant and Scottiſh Declaration.</p>
+            <p>Secondly, they tell us that the ſolemne League and Cove<g ref="char:EOLhyphen"/>nant doth not oblidge unto a ſuppreſſion of thoſe who out of a pretence of weake and tender Conſciences (but indeede trea<g ref="char:EOLhyphen"/>ſonable Deſignes againſt the King and Kingdome) refuſe to ſubſcribe unto Presbyterian government; and ſay that it is a moſt putide and irrationall thing, once to conceive that any ſuch thing was ever intended by the Parliament in the impo<g ref="char:EOLhyphen"/>ſing hereof (witneſſe their Reply to our City Remonſtrance of the 26. of <hi>May</hi> 1646. in which alſo they urge foure rea<g ref="char:EOLhyphen"/>ſons to prove the ſame, and are not aſhamed to ſtile <hi>theſe limbs of the Divell, theſe firſt borne of Satan;</hi> a party of as cordiall friends as ever they had ſince the Warre began. Thus doe they make Religion but a <hi>Veile</hi> to ſhrowd themſelves under, while they get a ſhoot at a Crowne, at Prince and People; a thing which from the very beginning of their Seſſions they onely aymed at, and have ſince onely purſued.</p>
+            <p>For whereas they were called by tha King <hi>ad Concilium</hi> one<g ref="char:EOLhyphen"/>ly, and to acquaint him with the oenour of our Petitions de<g ref="char:EOLhyphen"/>livered them, inſtead of diſcharging their Dutie, they ſtraight<g ref="char:EOLhyphen"/>way
+<pb n="3" facs="tcp:161810:2"/>
+begin to deſtroy a third Eſtate in Parliament, root out the heads of the Clergy. Next, to uſurpe the <hi>Militia</hi> from the King, and ſettle it in themſelves; <hi>Contrary to the minde of the Convention when it was full and free:</hi> and contrary to the pa<g ref="char:EOLhyphen"/>terne of heaven and earth: The power of a Kingdome being diſpoſed unto one <hi>Vice-Roy,</hi> not to a multitude; ſave as Sub<g ref="char:EOLhyphen"/>ſtitutes in ſeverall ranks under that one, as that one is under him whoſe right by Creation it is.</p>
+            <p>And for carrying on the ſaid Deſignes, they raiſe Tumults in <hi>December and Ianuary</hi> 1641. and by the ſeditious rabble of our City, drive away the diſſenting Members, and as it were new mould the two Houſes: and in <hi>March</hi> after they ſeize and diſpoſe of the <hi>Navie and Cynque Ports,</hi> under a pretence of providing againſt danger, winding themſelves into the ſtrength of the Kingdome for a <hi>Deſigne;</hi> which appears by con<g ref="char:EOLhyphen"/>ſequents, <hi>pretences</hi> being not to be beleeved where following actions run <hi>Croſſe and Counter.</hi>
+            </p>
+            <p>For preſently they ſhew more confidence then feare (though long before, as alſo now againe, we have nothing elſe.) More audaciouſneſſe againſt the King, then ſolicitude for the King<g ref="char:EOLhyphen"/>dome; and daily endeavour to ſubvert and deſtroy, not pre<g ref="char:EOLhyphen"/>ſerve and maintain the fundamentall conſtitution and govern<g ref="char:EOLhyphen"/>ment of the Realme and Parliament.</p>
+            <p>Neither is it long after till they diſcover their intentions againſt his ſacred Majeſty, as ſince <hi>Auguſt</hi> laſt they have done againſt the City and Kingdome. <hi>Martin</hi> ſayes openly in the Houſe, <hi>and the Houſe reproves him not for it;</hi> that the Kings Office is forfeitable, and that the welfare of this Kingdome did not depend upon his Majeſtie, nor any branch of the Roy<g ref="char:EOLhyphen"/>all race: and <hi>Lud<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> that he was not worthy to be King of <hi>England.</hi>
+            </p>
+            <p>And ſurely this was the minde of the Houſes, elſe theſe cur<g ref="char:EOLhyphen"/>ſed villains had not gone unpuniſht then, nor <hi>Hamond</hi> nee; ſinor themſelves <hi>May</hi> 26. impudently declared that <hi>they ſhould not want duty or modestie if they followed the higheſt Preſidents of thoſe two rebellious Parliaments that depoſed and murdered</hi> Edward <hi>and</hi> Richard <hi>both the ſecond.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:161810:3"/>Nor had they denied the Kings negative Vote in Parliament; nor had they, but to deprive the King and Crown of all power of <hi>Legiſlation</hi> and government, preſented and ſo earneſtly urged thoſe Bils for nominating the Privie <hi>Counſellours</hi> and chiefe Of<g ref="char:EOLhyphen"/>ficers of State; and for Reformation of <hi>Church-government and Liturgie,</hi> as they (forſooth) liked; and to order the <hi>Militia</hi> as they pleaſed; and to approve of Commanders for Forts and Caſtles; and to admit ſuch <hi>Peeres</hi> as ſhould be made hereafter, to ſit and Vote in <hi>Parliament.</hi>
+            </p>
+            <p>A Bill for the Kings leaving to tryall and puniſhment of Law, ſuch ill Councellours or Officers as then were or after might be, would have bin ſufficient to have ſecured this King<g ref="char:EOLhyphen"/>dome from any harme or danger by any ill Counſell whatſo<g ref="char:EOLhyphen"/>ever: This the King might and would eaſily have granted; and this might have contented them, if care of the Kingdomes welfare had been their ayms. But ambition and avarice makes them ſeeke for the rule and power out of the Kings hands (which is not his to part withall, power onely of creating Sub<g ref="char:EOLhyphen"/>ſtitutes under him being given him by the originall owner thereof) it is a fine thing to ſit at <hi>Weſtminſter,</hi> and Vote, and make Ordinances at will and pleaſure, and ſend for the King<g ref="char:EOLhyphen"/>domes Money and have it.</p>
+            <p>And for making good of what they had taken from, and de<g ref="char:EOLhyphen"/>clared againſt, and for the carrying on of what they had pro<g ref="char:EOLhyphen"/>poſed to his Majeſty, <hi>viz.</hi> to detain the <hi>Forts,</hi> the <hi>Militia</hi> and <hi>Navie</hi> from him (which acts be high treaſon by the Statutes of <hi>Hen.</hi> 8. and <hi>Edw.</hi> 6. themſelves know it well) and to take from him and from the Crowne of <hi>England</hi> the power of Law-mak<g ref="char:EOLhyphen"/>ing and governing, and to depoſe and deſtroy him and his roy<g ref="char:EOLhyphen"/>all race together with <hi>Monarchy,</hi> they ſent the late Earl of <hi>Eſſex</hi> (whom they perſwaded all was Law they did, as himſelf aver<g ref="char:EOLhyphen"/>red, and whom they have ſince well requited with untimely end) through the ſtreets of our City, to raiſe an army of delu<g ref="char:EOLhyphen"/>ded fooles, pretending to redeem a <hi>captived King</hi> from evill Counſellors; but indeed to captivate him; which ſince the war was ended, the ſillyeſt may plainly ſee; and that their jea<g ref="char:EOLhyphen"/>louſies and fears, and their pretences of Reformation &amp; liberty
+<pb n="5" facs="tcp:161810:3"/>
+were meer ſtratagems and deluſions to bring about their trai<g ref="char:EOLhyphen"/>trous deſignes againſt the King and Crown, againſt the Church and againſt us the free-born people of <hi>England.</hi>
+            </p>
+            <p>Elſe why ſhut they up the King in priſon? Why Voted they no more addreſſes to him? Why put they forth that traiterous Declaration againſt him? Theſe things have not been done by the people of this Kingdome to any Prince, whom they have not ſoone after depoſed and murdered. Elſe why turned they their Army in <hi>Auguſt</hi> laſt againſt our City? and why made they that <hi>ſaucie Ordnance</hi> ſoone after, to diſtraine by Souldi<g ref="char:EOLhyphen"/>ers for what Taxations they ſhould at any time charge upon the Countrey? and why doe they not disband this hereticall raſcall Army, but imploy it every where to murder and plun<g ref="char:EOLhyphen"/>der thoſe that Petition the ſettlement of Peace? Why drave they away the eleven Members? Why tooke they downe our ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines? and why lye they yet lurking about our City? Why did they diſplace and impriſon Sir <hi>Iohn Geere</hi> and the other Al<g ref="char:EOLhyphen"/>dermen? Why invaided they our Freemens priviledges in making new Officers, and ſuch as we cannot confide in; Men that ſeeke not to preſerve, but enthrall our Liberties; that ſtudy not to advance the Publique, but their own private inte<g ref="char:EOLhyphen"/>reſts, that intend their own rather then the Cities profit and ſe<g ref="char:EOLhyphen"/>curity? Why reſtore they not the <hi>Mili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia</hi> of the City into thoſe hands it was in before <hi>Auguſt</hi> laſt? how ſhall we thinke they ceaſe their Deſigne againſt us, when none of all theſe is ac<g ref="char:EOLhyphen"/>compliſhed? Looke to it Brethren, there is miſchiefe ſtill in<g ref="char:EOLhyphen"/>tended, though thoſe at <hi>Weſtminſter</hi> will needs have us beleeve otherwiſe.</p>
+            <p>When the diſcovery of this laſt deſign by <hi>Everard,</hi> came un<g ref="char:EOLhyphen"/>to our knowledge, the Major and Common-counſell (confe<g ref="char:EOLhyphen"/>derates with them in the buſineſſe, for the promoting of a new War with our Presbyterian Brethren) petition this perfidious prevailing party in the Houſes; and in their Petition, to co<g ref="char:EOLhyphen"/>lour the buſineſſe, do cloſely take in the Parliament into the then preſent danger with the City, as if the Army acted or conſulted any thing, which they had not firſt rules for from <hi>Weſtminſter;</hi> and likewiſe intimate the Cities reſolutions to
+<pb n="6" facs="tcp:161810:4"/>
+adhere to this wicked <hi>Jancto,</hi> that every day ſtiles it ſelf, <hi>The varliament of England,</hi> according to the ſolemn League and Co-Penant; and this muſt have thanks, and be publiſhed in print, to perſwade the people, whether they will or no, that they be yet the repreſentitative Body of the Kingdom, &amp; that ſuch Of<g ref="char:EOLhyphen"/>ficers as they have made in the City ſince <hi>Aug.</hi> laſt, without con<g ref="char:EOLhyphen"/>ſent of the free-men, be the repreſentitative body of the City, &amp; that all is well 'twixt the City and this <hi>Iuncto,</hi> as if there had bin no ſtarting from firſt pretended principles; &amp; now that (<hi>viz.</hi> the Covenant) w<hi rend="sup">ch</hi> the other day was declared to be but for diſco<g ref="char:EOLhyphen"/>very of the Parliament enemies, muſt oblige to an engagement in a ſecond War (contrary to the expreſſe tenor of it) to ſet up Independency: thus do they one while court Religion a Mi<g ref="char:EOLhyphen"/>ſtreſſe, another while uſe her as a ſlave.</p>
+            <p>But good Maſter <hi>Wiſdoms of Weſtminiſter,</hi> you ſhall find a wronged party of Presbyterians, both in City and Country (for whom you ſtill lye in wait, though you would fain ſeem to relinquiſh your deſigns) will call for ſatisfaction from you and your jugling implements of the City and Kingdom: It is not your now ſo often proclaiming your ſelves <hi>The Parlia<g ref="char:EOLhyphen"/>ment of England,</hi> nor the Major and Common-Counſels petiti<g ref="char:EOLhyphen"/>oning you, nor your ſly conjunctions and courting of one another with thanks and Declarations of mutuall aſſiſtance, nor Preachments by Proxies in Tipling houſes and Ordnaries, <hi>That there nor is, nor can be any difference 'twixt our City and you,</hi> nor your re-calumniating the Cavaliers, and fathering of plots upon them, which your ſelves invent at <hi>Derby-houſe,</hi> and diſ<g ref="char:EOLhyphen"/>cover by the Major, nor your new <hi>Brittannicus</hi> of <hi>Grayſ-Inne,</hi> whom you hire for five pound <hi>per week,</hi> to write anew thoſe forgeries wherewith you formerly abuſed the King and his faithfuls, and deluded us, ſhall make us forget your <hi>Auguſt-tricks,</hi> nor your <hi>four Bils</hi> which you ſent ſo privately to his Majeſty at <hi>Carisbrook-castle,</hi> that but for our Brethren of <hi>Scotland</hi> we had not yet heard of them, nor your cloſe reſtraint of the King, when he refuſed to ſacrifice us and our poſterity to your inſatiate ravenouſneſſe, by ſigning them; nor your late traite<g ref="char:EOLhyphen"/>rous Declaration againſt him, nor your deſigns of taking off
+<pb n="7" facs="tcp:161810:4"/>
+his head, if the Kingdom would have thanked you for that your Declaration, and liked of ſuch horried Murder; nor your continued detention of him, to the daily decay of Trade, and ruine of many of us.</p>
+            <p>You have brought the Parliament of <hi>England</hi> to a low ebbe, a <hi>Iuncto of moſt deſperate Rebels, moſt curſed Traitors, your ſelues that went from Weſtminſter to the Army in Auguſt:</hi> but for the carrying on of your Deſigns (now ready to be quaſhed) and ſlurring over the diſcoveries, you will needs take notice of the good af<g ref="char:EOLhyphen"/>fection of the City to adhere unto the Parliament, according to the Covenant; very willing and nimble are you to appre<g ref="char:EOLhyphen"/>hend and publiſh to the world any thing which might make our City your friend, or (at leaſt) ſtop inſurrections againſt you, you fear the tryall of Law, and perſwade that there is no diſlike 'twixt it and you, ſince the time it refuſed to joyn with you in a Petition for a general pardon; and you eaſily condiſcend to put up our chains: but for an In let (when you have devoured up the petitioning Counties, and murdered thoſe that deſired to bring you to the tryall of Law; you make <hi>Skippon</hi> (an Army Officer, and not to be truſted by our City) Major Generall, and you put the <hi>Militia</hi> of the City into Inde<g ref="char:EOLhyphen"/>pendents hands: Thus doe you play with our City, as a Cat doth with a Mouſe, <hi>catch her, and let her go, and catch her again, but at laſt ever devours her;</hi> and then prudent Citizens, what good doth putting up your chains? and you run back to your pro<g ref="char:EOLhyphen"/>poſitions preſented at <hi>Hampton-court,</hi> as if that were ſufficient ſatisfactions and ſhould reconcile you, after ſo many and foul falſifications of Word, and breach of Covenant with our Bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland,</hi> and thoſe proud and traiterous deſigns you have diſcovered of late againſt our City and Kingdom, and detaining of the King in priſon, and making no juſt accompt of thoſe vaſt ſummes You and your Subſtitutes have had from us.</p>
+            <p>In the beginning of theſe unnaturall Brauls, your Declara<g ref="char:EOLhyphen"/>tions ſignified, that the ſeparation of his Majeſty from <hi>Weſt<g ref="char:EOLhyphen"/>minster</hi> was the originall of our unhappineſſe; and that the chief intent of raiſing your Army, was to bring the King from
+<pb n="8" facs="tcp:161810:5"/>
+ſome evill Counſell, in honour and ſafety, to ſit with you at <hi>Weſtminſter,</hi> and that it was impoſſible ever to have a ſafe and wel-grounded Peace, without his Majeſties perſonall concur<g ref="char:EOLhyphen"/>rence in Parliament; and you often proteſted by word of mouth in our Common Hals, and many Declarations in the publike view of heaven and earth, that you would not deſtroy but maintain our Religion and our Lawes, that you would live and dye with us, ſtand and fall with us, that you would never leave us, till you had made us free; and lo, now our freedom, now we have gained you your wils (for any thing we may ſince imagine to the contrary) upon your private ene<g ref="char:EOLhyphen"/>mies, the <hi>King's Faithfuls;</hi> we muſt be ſlaves to you and your <hi>Mechanick</hi> Subſtitutes, and your <hi>Raggamuffin</hi> Army, and if we petition for our Soveraigns liberty and our own eaſment, we muſt be worſe uſed then <hi>Iſrael</hi> by their <hi>Aegyptian Task<g ref="char:EOLhyphen"/>masters,</hi> we muſt be butchered and pillaged as our <hi>Surrey</hi> Bre<g ref="char:EOLhyphen"/>thren at <hi>Weſtminster,</hi> and as the Petitioners in <hi>Kent,</hi> murdered and ſtript in every Town and Lane where they were found; and now your ſix weeks talk of ſetling the Kingdom, is come to a deſign of diſarming the Counties where you martch, one by one, and doubling your Army and Aſſeſſements, and ſub<g ref="char:EOLhyphen"/>jecting us unto a Military power: Thanks for the freedom you intend us; we muſt keep you an Army of <hi>Rogues and Knaves</hi> to murder and plunder us every where, and to protect <hi>you trai<g ref="char:EOLhyphen"/>tors,</hi> and your unjuſt <hi>Committees,</hi> from tryall of Law, and ma<g ref="char:EOLhyphen"/>king up your accompts; you would have it ſo: you are wiſe enough to know, that <hi>Rebellion</hi> cannot ſubſiſt longer then it keeps an Army in the field, and we have wofull experience of the abuſes and charge of it: though <hi>Kentiſh</hi> Bumpkins be con<g ref="char:EOLhyphen"/>tent with <hi>Bag-puddings,</hi> and <hi>Eſſex</hi> Calves with <hi>Butter-milk,</hi> if we muſt wade thorough the red Sea unto our Liberties, we will; ſend you out your <hi>Weſtminſter Buls</hi> of death and plunder, againſt ſuch as riſe againſt you, and do your worſt, we ſhall ſhortly eaſe our ſelves of your Army and you too: and we hope ſuch Cavaliers as ſerved their King for love, will joyn with us to reſtore him, and repair our infringed free<g ref="char:EOLhyphen"/>doms, and vindicate themſelves robbed and plundered of their
+<pb n="9" facs="tcp:161810:5"/>
+Eſtates in time of War, by you and your agents (contrary to the Statute of <hi>Hen.</hi> 7. you know it well, you diſhoneſt and ſhameleſſe —) and forct to pay great ſums of money ſince at <hi>Goldſmiths-Hall,</hi> to the utter undoing of many of them: you might by as good Law, have robbed upon the Road in times of peace, as ſequeſtred any for ſerving the King of this Country, or compelled loanes of Money from us, to help for<g ref="char:EOLhyphen"/>ward your traiterous deſigns againſt the King and Kingdom, but you think to make white your black actions with more wilfull murders: You will try by the King's Commiſſion of Oyer and Terminer, not Rebels, but thoſe that riſe to ſup<g ref="char:EOLhyphen"/>preſſe them; this is your conſcience, your honeſty; thus re<g ref="char:EOLhyphen"/>gard you the murdering, killing and ſlaughtering the Subjects of this kingdom; the tearings, rendings and crippling of poor people; the burning, waſting and plundring of mens eſtates; the wofull, bitter and ſad complaints, and ſhowrs of tears ſhed in corners &amp; ſecret cloſets by many men, whoſe former quali<g ref="char:EOLhyphen"/>ty, with the remembrance thereof, makes them wipe their eyes, and counterfeit cheerfulnes in the ſight of men: thus ſalve you the ſores of this kingdom. When the <hi>Eſſex</hi> Calves (as you ſtiled them, &amp; as they have proved ſince) then a little ſenſible of their Maſters ſufferings, and their own, and the kingdoms ill uſage, and calling to minde ſome former ſpecious Declarations, and treaſonable courſes, directly contrary thereunto, repair unto <hi>Weſtminſter</hi> in that moſt unqueſtionable way, for the Subject, as <hi>Warwick</hi> daigned to call it, petitioning the reſtitution of the King, and the Countries eaſe: the Houſes after thet uppers thanks for ſome reſpects in the Petition, and the ſaucy Com<g ref="char:EOLhyphen"/>mons mentioning ſome former ſervices, deſire a further pati<g ref="char:EOLhyphen"/>ence, and the Petition ſhall be geanted; they will ſettle the kingdom by <hi>Dooms day,</hi> or when they can continue War no longer; for in ſtead of disbanding their Army, they prepare for ſecond brauls, they put the City and kingdom into a mi<g ref="char:EOLhyphen"/>litary poſture, under Independent Officers, and fight with Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorn,</hi> Colonel <hi>Powell</hi> and <hi>Poyer;</hi> yet they ſay their quarrell is againſt Cavaliers, and the people muſt riſe for them now, (a traieterous and perfidious <hi>Juncto,</hi> that ſeeks to
+<pb n="10" facs="tcp:161810:6"/>
+enſlave them to an arbitrary power, and an Army) as for the Parliament before.</p>
+            <p>Our Brethren of <hi>Surrey</hi> petition, and the Houſes ſend for the Rogues, (then at <hi>White-hall</hi>) to fall upon them, making <hi>Weſtminſter</hi> (formerly a Court of Juſtice, where men had right) a field of blood and theft.</p>
+            <p>Our Brethren of <hi>Kent</hi> reſolving to petiton, but fear<g ref="char:EOLhyphen"/>ing a <hi>Surrey</hi> welcome, arm for their defence againſt the Army; and inſtead of receiving their Petition, they de<g ref="char:EOLhyphen"/>lude them with Treaties and wiles, till they had got their Rebell Army into the County amongſt them, and then they ſend it Orders to fall upon them, to ſlaughter and plunder all that ſhould deſire to have an old King, and a new Parliament; which was ſufficient<g ref="char:EOLhyphen"/>ly obſerved by the Souldiers; for none could paſſe the Road uncut or unmurdered, and unſtript; and when they came into their Quarters, they would with drawn Swords, and ſpanned Piſtols, ſwear and curſe, and tell the women, they would have roſt-meat, or they would broyl a piece of their Hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bands heads: neither were they contented to feaſt whiles they ſtayed, but at remo<g ref="char:EOLhyphen"/>uall, let ſellars of Beer upon the floor, knock out the bottoms of Milk-veſſels, and ſpoyl all. Theſe be the civill Souldiers they have ſo oft talked of.</p>
+            <p>
+               <hi>Eſſex</hi> appears for the aſſiſtance of <hi>Kent,</hi> and they firſt bribe <hi>far,</hi> and other knaves to decline the buſineſſe, and then ſend <hi>Whaley</hi> in amongſt them, to play like prnks there, as in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>Suſſex</hi> preſents its Petition by the number limited in the Declaration to bring it; and they tell them, as the others ſix weeks before, they are upon the buſineſſe of ſetling the Kingdom; yet they ſpent the laſt moneth in
+<pb n="11" facs="tcp:161810:6"/>
+making Orders for the ſale of the Duke of <hi>Yorks</hi> Horſes, and for <hi>Lincolns</hi> man paſſage to <hi>France,</hi> &amp; for <hi>Hunger<g ref="char:EOLhyphen"/>fords</hi> comming from <hi>Ireland</hi> hither, and ſuch like moſt weighty affairs: the paſt of the moneth they have ſpent in voting the ſpoil of <hi>Kent</hi> and <hi>Eſſex,</hi> in framing Plots at <hi>Derby houſe</hi> and <hi>Weſtminſter,</hi> to be fathered upon the Cavaliers, and to be diſcovered by the Major, and other their own Agents, in preaching to the people of a com<g ref="char:EOLhyphen"/>mon enemy againſt the Parliament, City and Kingdom, in ſlandering our Presbyterian quarrell to be that of the Cavaliers already ended, in proclaiming themſelves <hi>The Parliament of England,</hi> and their Independent Fa<g ref="char:EOLhyphen"/>ction, the City and Kingdom, and apparelling all men in the goodly cloathes of Rebellion and Treaſon, that riſe againſt their <hi>Rebel-ſelves,</hi> that would deſtroy Reli<g ref="char:EOLhyphen"/>gion and Law, the King and his Poſterity, and Crown themſelves and Succeſſors.</p>
+            <p>On Friday laſt they Vote the diſarming of the King<g ref="char:EOLhyphen"/>dome, as their Armies marrch, and ſubjecting us to a tyrannicall arbitrary power of themſelves and their Souldiers; to lay us ſo open (by diſarming us) to the invaſion of <hi>Spaine</hi> and <hi>France,</hi> our priſt in and po<g ref="char:EOLhyphen"/>tent adverſaries, was high treaſon in the <hi>Earle of Stra<g ref="char:EOLhyphen"/>ford</hi> and the Lord <hi>Cottington,</hi> in the beginning of their Seſſions; and yet now 'tis their Act, it muſt be o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>Thus have I recapitulated a little the miſchievous projects of this lewd and wicked IUNCTO (thoſe that went away to the Army in <hi>Auguſt</hi> laſt) and doe deſire all, who have any zeale to Religion, love to Mo<g ref="char:EOLhyphen"/>narchicall government, ſence of the ſufferings and im<g ref="char:EOLhyphen"/>priſonment
+<pb n="12" facs="tcp:161810:7"/>
+of the King, affection to their oppreſſed Brethren in the ſeverall Counties, or deſire to pre<g ref="char:EOLhyphen"/>ſerve the liberty and property of the Subject, that they would arme in each corner of the Kingdome, and by force command that which will not other<g ref="char:EOLhyphen"/>wiſe be had.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
